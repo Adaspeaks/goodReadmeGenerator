@@ -23,15 +23,49 @@ function generateMarkdown(data) {
 
   ## Description
 
+  ${data.description}
+
+  ## Table of Contents
+
+  *[How to install](#Installation)
+  *[How to use](#Usage)
+  *[How to Contribute](#Contribution Guidelines)
+  *[Testing Instructions](#Testing)
+  *[Contact Info](#Contacts)
+
   ## Installation
+
+  To install the dependencies for the application use the following:
+
+  \`\`\`
+  ${data.install}
+  \`\`\`
 
   ## Usage
 
-  ## Contribution Guidlines
+  \`\`\`
+  ${data.usage}
+  \`\`\`
 
-  ## Test Instructions
+  ## Contribution
 
-  ## Contant Me
+  \`\`\`
+  ${data.contribute}
+  \`\`\`
+
+  ## Testing
+  To test the application:
+
+  \`\`\`
+  ${data.test}
+  \`\`\`
+
+
+  ### Contacts
+
+  You can find my other repositories at: https://github.com/${data.username}
+
+  or email me at: ${data.email}
 
 
 `;
