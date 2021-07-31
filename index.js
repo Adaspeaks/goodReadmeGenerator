@@ -5,11 +5,15 @@ const generateMarkdown = require("./utils/generateMarkdown");
 // TODO: Create an array of questions for user input
 const questions = [];
 
-// TODO: Create a function to write README file
-function writeToFile() {}
+function writeToFile() {
+    questions()
+    .then((data) => writeFileAsync("README.md", generateMarkdown(data)))
+    .then(() => console.log("README has been made successfully"))
+    .catch((err) => console.log(err));
+};
 
 function init() {
     writeToFile();
-}
+};
 
 init();
