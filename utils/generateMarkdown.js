@@ -20,8 +20,20 @@ function generateMarkdown(data) {
   # ${data.title}
 
   ${renderLicenseBadge(license.badge)}
-  
 `;
 }
 
 module.exports = generateMarkdown;
+
+
+// must include a sample READme
+// table of contents 
+
+// title
+// description 
+// installation 
+// usage information 
+// contribution guidlines
+// test instructions
+// github username with link functionality
+// email address 
