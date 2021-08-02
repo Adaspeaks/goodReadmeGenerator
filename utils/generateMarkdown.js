@@ -26,7 +26,7 @@ function generateMarkdown(data) {
 
   * [How to install](#Installation)
   * [How to use](#Usage)
-  * [How to Contribute](#Contribution Guidelines)
+  * [How to Contribute] (#Contribution Guidelines)
   * [Testing Instructions](#Testing)
   * [Contact Info](#Contacts)
 
