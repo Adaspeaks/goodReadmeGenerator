@@ -57,7 +57,7 @@ const questions = () =>{
 
 function writeToFile() {
     questions()
-    .then((data) => writeFileAsync("newREADME.md", generateMarkdown(data)))
+    .then((data) => writeFileAsync("README.md", generateMarkdown(data)))
     .then(() => console.log("README has been made successfully"))
     .catch((err) => console.log(err));
 };
