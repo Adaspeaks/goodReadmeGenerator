@@ -1,11 +1,11 @@
 
-  # alot of loremipsum
+  # alot of lorem ipsum
 
   
 
 ## Description
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in placerat risus. Pellentesque vulputate varius dapibus. Nulla et massa risus. Curabitur velit arcu, vestibulum et nisl a, facilisis placerat lectus. Integer id justo purus. Donec sem purus, venenatis non interdum et, iaculis a felis. Sed cursus mauris id aliquet efficitur.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit blandit ex, faucibus congue mauris tristique elementum. Nulla erat orci, viverra nec egestas sit amet, consequat in lectus. Vestibulum et mi semper nunc rhoncus interdum. Phasellus et leo at risus semper hendrerit. Praesent hendrerit efficitur placerat. Vivamus consequat maximus egestas. Cras tincidunt quam magna, bibendum rhoncus neque gravida non. Aenean ullamcorper, velit ac sagittis pulvinar, lectus risus rutrum lectus, quis aliquam erat erat a dolor. Aliquam erat volutpat. 
 
 ## Table of Contents
 
@@ -20,33 +20,33 @@
   To install the dependencies for the application use the following:
 
   ```
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in placerat risus. Pellentesque vulputate varius dapibus. Nulla et massa risus. Curabitur velit arcu, vestibulum et nisl a, facilisis placerat lectus. Integer id justo purus. Donec sem purus, venenatis non interdum et, iaculis a felis. Sed cursus mauris id aliquet efficitur.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit blandit ex, faucibus congue mauris tristique elementum. Nulla erat orci, viverra nec egestas sit amet, consequat in lectus. Vestibulum et mi semper nunc rhoncus interdum. Phasellus et leo at risus semper hendrerit. Praesent hendrerit efficitur placerat. Vivamus consequat maximus egestas. Cras tincidunt quam magna, bibendum rhoncus neque gravida non. Aenean ullamcorper, velit ac sagittis pulvinar, lectus risus rutrum lectus, quis aliquam erat erat a dolor. Aliquam erat volutpat. 
   ```
 
 ## Usage
 
   ```
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in placerat risus. Pellentesque vulputate varius dapibus. Nulla et massa risus. Curabitur velit arcu, vestibulum et nisl a, facilisis placerat lectus. Integer id justo purus. Donec sem purus, venenatis non interdum et, iaculis a felis. Sed cursus mauris id aliquet efficitur.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit blandit ex, faucibus congue mauris tristique elementum. Nulla erat orci, viverra nec egestas sit amet, consequat in lectus. Vestibulum et mi semper nunc rhoncus interdum. Phasellus et leo at risus semper hendrerit. Praesent hendrerit efficitur placerat. Vivamus consequat maximus egestas. Cras tincidunt quam magna, bibendum rhoncus neque gravida non. Aenean ullamcorper, velit ac sagittis pulvinar, lectus risus rutrum lectus, quis aliquam erat erat a dolor. Aliquam erat volutpat. 
   ```
 
 ## Contribution
 
   ```
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in placerat risus. Pellentesque vulputate varius dapibus. Nulla et massa risus. Curabitur velit arcu, vestibulum et nisl a, facilisis placerat lectus. Integer id justo purus. Donec sem purus, venenatis non interdum et, iaculis a felis. Sed cursus mauris id aliquet efficitur.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit blandit ex, faucibus congue mauris tristique elementum. Nulla erat orci, viverra nec egestas sit amet, consequat in lectus. Vestibulum et mi semper nunc rhoncus interdum. Phasellus et leo at risus semper hendrerit. Praesent hendrerit efficitur placerat. Vivamus consequat maximus egestas. Cras tincidunt quam magna, bibendum rhoncus neque gravida non. Aenean ullamcorper, velit ac sagittis pulvinar, lectus risus rutrum lectus, quis aliquam erat erat a dolor. Aliquam erat volutpat. 
   ```
 
 ## Testing
+
   To test the application:
 
   ```
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in placerat risus. Pellentesque vulputate varius dapibus. Nulla et massa risus. Curabitur velit arcu, vestibulum et nisl a, facilisis placerat lectus. Integer id justo purus. Donec sem purus, venenatis non interdum et, iaculis a felis. Sed cursus mauris id aliquet efficitur.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit blandit ex, faucibus congue mauris tristique elementum. Nulla erat orci, viverra nec egestas sit amet, consequat in lectus. Vestibulum et mi semper nunc rhoncus interdum. Phasellus et leo at risus semper hendrerit. Praesent hendrerit efficitur placerat. Vivamus consequat maximus egestas. Cras tincidunt quam magna, bibendum rhoncus neque gravida non. Aenean ullamcorper, velit ac sagittis pulvinar, lectus risus rutrum lectus, quis aliquam erat erat a dolor. Aliquam erat volutpat. 
   ```
-
 
 # Contacts
 
-  You can find my other repositories at: https://github.com/Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in placerat risus. Pellentesque vulputate varius dapibus. Nulla et massa risus. Curabitur velit arcu, vestibulum et nisl a, facilisis placerat lectus. Integer id justo purus. Donec sem purus, venenatis non interdum et, iaculis a felis. Sed cursus mauris id aliquet efficitur.
+  You can find my other repositories at: https://github.com/loremIpsum
 
-  or email me at: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in placerat risus. Pellentesque vulputate varius dapibus. Nulla et massa risus. Curabitur velit arcu, vestibulum et nisl a, facilisis placerat lectus. Integer id justo purus. Donec sem purus, venenatis non interdum et, iaculis a felis. Sed cursus mauris id aliquet efficitur.
+  or email me at: lorem@ipsum.com
 
 
