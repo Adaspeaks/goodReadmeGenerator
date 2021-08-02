@@ -30,7 +30,6 @@ function generateMarkdown(data) {
   * [Testing](#Testing)
   * [Contacts](#Contacts)
 
-<a name="Installation"></a>
 ## Installation
 
   To install the dependencies for the application use the following:
@@ -39,21 +38,18 @@ function generateMarkdown(data) {
   ${data.install}
   \`\`\`
 
-<a name="Usage"></a>
 ## Usage
 
   \`\`\`
   ${data.usage}
   \`\`\`
 
-<a name="Contribution"></a>
 ## Contribution
 
   \`\`\`
   ${data.contribute}
   \`\`\`
 
-<a name="Testing"></a>
 ## Testing
 
   To test the application:
@@ -62,7 +58,6 @@ function generateMarkdown(data) {
   ${data.test}
   \`\`\`
 
-<a name="contacts"></a>
 # Contacts
 
   You can find my other repositories at: https://github.com/${data.username}
